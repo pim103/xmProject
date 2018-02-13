@@ -30,3 +30,8 @@ char *smalloc(int num, int size)
 
     return object;
 }
+
+int sclose()
+{
+    printf("Closed\n");
+}
