@@ -1,0 +1,14 @@
+<lieu nom='Bastille'>
+	<client>
+		<nom> moisan </nom>
+		<prenom> pim </prenom>
+		<action> Entrée </action>
+		<date> 17:48:57 </date>
+	</client>
+	<client>
+		<nom> ouiiiiiiiiiii </nom>
+		<prenom> maintenant </prenom>
+		<action> Sortie </action>
+		<date> 17:49:21 </date>
+	</client>
+</lieu>

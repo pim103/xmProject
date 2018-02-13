@@ -1,0 +1,44 @@
+<lieu nom='Bastille'>
+	<client>
+		<nom> moisan </nom>
+		<prenom> pim </prenom>
+		<action> Entrée </action>
+		<date> 0:30:35 </date>
+	</client>
+	<client>
+		<nom> pim </nom>
+		<prenom> moi </prenom>
+		<action> Entrée </action>
+		<date> 0:30:35 </date>
+	</client>
+	<client>
+		<nom> uesh </nom>
+		<prenom> wow </prenom>
+		<action> Sortie </action>
+		<date> 0:30:35 </date>
+	</client>
+	<client>
+		<nom> heure </nom>
+		<prenom> stp </prenom>
+		<action> Entrée </action>
+		<date> 0:30:35 </date>
+	</client>
+	<client>
+		<nom> moisan </nom>
+		<prenom> apodfjaf </prenom>
+		<action> Entrée </action>
+		<date> 0:33:59 </date>
+	</client>
+	<client>
+		<nom> encore </nom>
+		<prenom> yes </prenom>
+		<action> Sortie </action>
+		<date> 0:34:12 </date>
+	</client>
+	<client>
+		<nom> allez </nom>
+		<prenom> rapide </prenom>
+		<action> Sortie </action>
+		<date> 0:34:42 </date>
+	</client>
+</lieu>

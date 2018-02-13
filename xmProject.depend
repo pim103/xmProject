@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1517680159 source:d:\cours 2eme année esgi\c2 - m.sananes\xmproject\config.h
+
+1518452673 source:d:\cours 2eme année esgi\c2 - m.sananes\xmproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<time.h>
+	"config.h"
+	"utility.h"
+	"xml.h"
+
+1517838100 d:\cours 2eme année esgi\c2 - m.sananes\xmproject\config.h
+
+1518452833 source:d:\cours 2eme année esgi\c2 - m.sananes\xmproject\xml.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<time.h>
+	"config.h"
+	"utility.h"
+	"xml.h"
+
+1518452665 d:\cours 2eme année esgi\c2 - m.sananes\xmproject\xml.h
+
+1518452529 d:\cours 2eme année esgi\c2 - m.sananes\xmproject\utility.h
+
+1518452799 source:d:\cours 2eme année esgi\c2 - m.sananes\xmproject\utility.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<time.h>
+	"config.h"
+	"utility.h"
+
