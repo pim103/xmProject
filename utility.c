@@ -23,15 +23,16 @@ FILE* secureOpen(char *pathFile, char *mode)
 
 char *smalloc(int num, int size)
 {
-    char *object;
-    object = malloc(num*size);
+    char *array;
+    array = malloc(num*size);
 
-    if(object == NULL) return 0;
+    if(array == NULL) return 0;
 
-    return object;
+    return array;
 }
 
 int sclose()
 {
     printf("Closed\n");
+    return 1;
 }

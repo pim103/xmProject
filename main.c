@@ -3,6 +3,8 @@
 #include <unistd.h>
 #include <string.h>
 #include <time.h>
+#include <winsock.h>
+#include <MYSQL/mysql.h>
 
 #include "config.h"
 #include "utility.h"

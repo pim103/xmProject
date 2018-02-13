@@ -3,9 +3,12 @@
 #include <unistd.h>
 #include <string.h>
 #include <time.h>
+#include <winsock.h>
+#include <MYSQL/mysql.h>
 
 #include "config.h"
 #include "utility.h"
+#include "xml.h"
 #include "xml.h"
 
 char balise1[30] = "<lieu nom='Bastille'>";
